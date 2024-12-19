@@ -1,0 +1,12 @@
+.flex-block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.flex-block span {
+  padding: 5px;
+}
+
+.answer {
+  min-height: 2rem ;
+}
